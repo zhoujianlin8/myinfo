@@ -1,0 +1,13 @@
+{
+  "name": "myinfo",
+  "main":  "lib/index.js",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "fde start",
+    "build": "fde build"
+  },
+  "dependencies": {
+    "@wm/modal":"git+ssh://git@192.168.1.209:m/modal.git",
+    "@wm/bridge":"git+ssh://git@192.168.1.209:m/bridge.git"
+  }
+}
