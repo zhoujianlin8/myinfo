@@ -1,6 +1,6 @@
 #征婚交友
 
-![照片周建林](http://cdn.fefamily.cn/myinfo/zhoujianlin.jpeg)
+![照片周建林](http://cdn.fefamily.cn/myinfo/zhoujianlin.jpg)
 
 ## 个人基本信息
 
